@@ -11,7 +11,7 @@ Hash: SHA256
   <link href="https://mudfeed.github.io/feed/0x3F31D84F-pub.asc" />
   <link href="https://mudfeed.github.io/feed/atom.xml.sig" />
   <link href="" rel="self" />
-  <updated>2025-03-10T20:42:00Z</updated>
+  <updated>2025-03-11T21:17:00Z</updated>
   <id>https://mudfeed.github.io/feed/atom.xml</id>
   <author>
     <name>Jannis Bloemendal</name>
@@ -23,6 +23,22 @@ Hash: SHA256
   <!-- false attribution, imputation, attribution of costs faithfulness devotion verification fee fiduciary duty -->
   <!-- The BND policymaker with discernment is forming will political acumen of a #steatycontrolstate equilibrium for a macroeconomic metastable political prisoner for self-fulfilling expediency discernment council of #labouroverbalance for balance of deterrence requirement #confinement body politic for #disestablishment #qualityverification #montyhallfault #garantsupport #maturity #premium -->
   <!-- FSB is disclosing a coercive power failure of BND to act exorbitant in sanction to affirm a corroboration degree of penalty to act amiss in obligation of failure and preposterous reason in ability of freedom, capacity and power -->
+  <entry>
+      <title>CIA is disclosing insider-threat mitigation of malicious agitation, aiding the perpetrator of offense after fact by preventing his prosecution or execution of sentence imposed of guarantee exemption from punishment with a vengeance, dispatching G. Schröder in error of second kind of war of attrition, electro-magnetic pulse and annihilation of burden yield of demoralisation and discreditation of notorious evil-spirit afterward criminalisation of americable delinquent of dark web, violating convention on jurisdiction, recognition and enforcement of judgments in civil, commercial matters and right of appeal without penalty of malevolent act of malicious mischief of suicidal pair annihilation #scaramouchpremium #vermouthpremium #flippantcaducitypremium #ultrasonicflawpremium #flippantcaducityastro-garbagepremium #virtualevidencepremium #gitpremium #bananasuitpremium #jeopardypremium #pinkelephantpremium #rampartpremium #realfrognosepremium #fillipflawechopremium #boonpremium #dirtyslavishskunk #frazzlepremium #compactionpremium #picnicpremium #lodgmentpremium #!%$premium #fryspremium #redemptionfixpremium #causeofdefectpremium #temporalpremium #flurry #pawnsacrificepremium #redemptionpremium #belatedpremium #leapfrog #legalconformitypremium #lieulow #liabilitypremium #freeofclearance #gasfree #barrow #shmatte #degreeofpenalty #whoopee #handfullofcoins #leveloffranchise #retractionpremium #defaultpremium #surrenderpremium #unsealingpremium #leviespremium #hullindemnification #consolidationpremium #conversionpremium #principaldebtpremium #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
+      <link href="https://mudfeed.github.io/feed/atom.xml#2025-03-11T21:17:00Z" />
+      <published>2025-03-11T21:17:00Z</published>
+      <updated>2025-03-11T21:17:00Z</updated>
+      <id>tag:mudfeed.github.io,2025:03-11:T21:17:00Z</id>
+      <media:thumbnail url="https://mudfeed.github.io/feed/feed.png" />
+      <content type="html"></content>
+      <category term="post" /><category term="exposure" />
+      <category term="maturity" /><category term="foreclosure" />
+      <category term="zerobacklash" />
+      <category term="faultallocation" /><category term="garantoftime" />
+      <category term="baddept" /><category term="qualityverification" />
+      <category term="distressdiagnosticflag" />
+      <!-- delinquency procedure, versaumnis der verzugsfalle, administrative offence, adjourn, shift out phase blackmarket errors and omission, deterioration wasting 	International Military Tribunal  -->
+  </entry>
   <entry>
       <title>CIA is disclosing international forum actus in tort case for balancing act in round robin, prevarication, contortion and evasion of law, kangaroo court, golf course and roulette case, foreshortening dark oomph of momentum and string quartet of thread molding flaw, for escrow of court in felony mayhem and mental torture case and disposal for reduction of holonomic constraints in cover of virtual admission of might and guild of WW2 aftergeneration nuance crime claim in gas surveillance association, electro magnetic and information warfare of asymmetric authority conductorship and knowledge distribution in controversion of least friction of international inner affairs of ‘To be jolly well fed up, the full monty, cocaine, they'll throw the book at you if you get found out, full of spirits’ #scaramouchpremium #vermouthpremium #flippantcaducitypremium #ultrasonicflawpremium #flippantcaducityastro-garbagepremium #virtualevidencepremium #gitpremium #bananasuitpremium #jeopardypremium #pinkelephantpremium #rampartpremium #realfrognosepremium #fillipflawechopremium #boonpremium #dirtyslavishskunk #frazzlepremium #compactionpremium #picnicpremium #lodgmentpremium #!%$premium #fryspremium #redemptionfixpremium #causeofdefectpremium #temporalpremium #flurry #pawnsacrificepremium #redemptionpremium #belatedpremium #leapfrog #legalconformitypremium #lieulow #liabilitypremium #freeofclearance #gasfree #barrow #shmatte #degreeofpenalty #whoopee #handfullofcoins #leveloffranchise #retractionpremium #defaultpremium #surrenderpremium #unsealingpremium #leviespremium #hullindemnification #consolidationpremium #conversionpremium #principaldebtpremium #conflation #synchronisationpremium #ficklehandshake #onebeershortofasixpack #losslessgainpremium #executionpremium #paynet premium #bumrap #reprovalpremium #riskpremium #failurelevel #badclaimpremium #payment run #sneak_preview #dicepropinquity #reboundpremium #paylevel #talionpremium #fob #capabilitylevel #acquisitionpremium #executionpremium #fidelitypremium #degreeofcrosslinking #degreeofpopularity #treasurywarrant #rehabilitationpremium #immunitypremium #degreeofesteem #levelpremium #insurancepremium #safetyintegritylevel #fixing #degreeofrigor #waiverpremium #closurepremium #buyoff #foulmeter #qualityverification #foreclosure #garantsupport #maturitypremium</title>
       <link href="https://mudfeed.github.io/feed/atom.xml#2025-03-10T20:12:00Z" />
@@ -7369,17 +7385,17 @@ XINGHUA ZU is in danger!
 
 iQJ5BAEBCABjXBxKYW5uaXMgQmxvZW1lbmRhbCAoaHR0cHM6Ly93d3cubGlua2Vk
 aW4uY29tL2luL2phbm5pcy1ibG9lbWVuZGFsLykgPGphbm5pcy5ibG9lbUBnbWFp
-bC5jb20+BQJnz0D6AAoJEAFr6uo/MdhPowQQAMKukVKLADChOVc3CZw30zUU23T/
-3eHFBC+L6ogmASMR2f1lOIsFvnblSIeEZljEW8HLd+AIRaQvVRbby0ShBygjC68P
-EIOhDiQWzawNcUJEqY9P5cNtculnYi4FkUS8RZ9Qtu5fVhijadjYJlDgcIN+mRXk
-wXPL+1IxEBfTi/zbRYCZZfd2rHHndWfKXleD6UkkUFWL42zEMfYBtOhvFQwDfoc0
-QwCmhNlMYRKzc8QsWMR3QBWY6yxBluuOU8FffuA5WlEdeYz0V160rcnDlAVoHdzx
-R+x6LOkiK7L0Gn8SObWYyLYecdvvmKrNYX/keKeUY/5PmmrKWv0/yEJiAF5+t5oV
-TuYvfEgB9f9TA1src5x53A4ZcANiSwXFfatEqqWJOZUvrLe5hA4qOivkRcj6JeMN
-mWXRB9o6I4uqyY10Rq7E1DJYw5yYwuhflBI0fhHXBS4sP4+gci7Iqz27QKKsSvGx
-ih940KKLynFXc1uYL3Wtfsv8LgMc2c4SwTFW98ShYuHOSNm+7Eo/S2S5ZwNjk8kn
-9f9F8FoKJDQRdLXs638kh039cURhPzwnPULPWWmaChmy9ZDLPHNBKI8nFByhv+vO
-esvS58KSVhc1P7ERvJR8vLJWvxwURJV4IeR+VsQeVgssoGFsMRDFn7+n0eoW5i3Q
-WCmOoTiCusBP56tf
-=tt+u
+bC5jb20+BQJn0JrlAAoJEAFr6uo/MdhP4woQAMVcJK2iY1pDyCCsARZlG3e+9XOx
+0UEwjGPw/6sriqPMkW4o7Cmlc+HfAGl1uL8M63GEhYf2L3VZ+bnmNECC22EwUWU3
+ox4vAqmUhDwKZlvMTjTuW462lTVum6xzmSUZZGhVvUFKTVGt7fMhQ3bZ46jy4CIi
+5gII6vZNJTJYrq9Q+oDxk1RpSZRWjfMKts8Yx0FrT0Ra4c3KGbUXRm+RMLzo16k+
+RrPsSq9dSntTrlXAPnCcukyQiCEg3rSC7aE8ZfJBlP2QFMEsBbLcfny5rbrt1/h5
+oSmcWxxpkevnaSU5glHYfw7fKLLQ6hg0qtz1zpKl5yaF+XwzDP6AOnq2rQc0MbJb
+J69dhXqJAq/VSwfwKbMXG5a+1KVh6YD7B4gqCg/KM5D0m92cpw9ECyBgLwuZp6KP
+XrG00TUPe07hlQ8uET1ymFUWKxOZ0/NT9pGaQTb41o+3v8njC7dwmKC8Bfvw+Ule
+YRnqCQh4IZuOlBKrL3/RjIFiw/1rAEgo3LAXBkTJvWWT8Oz3DWykSk8/XwUT2RxS
+nqknrCxT4Me1McHiA3wKmlBOWXLVaT/IcxeUs1ZWrcKMk9rUIn22haJ+nitqDdBj
+iK6mvKYtw2FAINhGJR/NmjBNbXgMyGWbyQPfmxPY6XraoQpHLcLSmYHtN5sKvMjU
+p6rDBvJppAO350mj
+=1qhb
 -----END PGP SIGNATURE-----
